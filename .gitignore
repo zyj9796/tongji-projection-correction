@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+data/
+results/
+output/
+tmp/
+*.tif
+*.tiff
+*.rslc
+*.mli
+*.dem
+*.npy
+*.npz
+
